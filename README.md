@@ -7,3 +7,6 @@ saish shaikh
 
 #rivision
 today
+
+# december rivise
+self learning
